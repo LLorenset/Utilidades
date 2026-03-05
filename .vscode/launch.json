@@ -1,0 +1,29 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: main.py",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/main.py",
+      "console": "integratedTerminal",
+      "args": [
+        "cadenas/ejemplo.txt"
+      ]
+    },
+    {
+      "name": "Python: scripts/ejemplo_uso.py",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/scripts/ejemplo_uso.py",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Python: correos/integracion.py",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/correos/integracion.py",
+      "console": "integratedTerminal"
+    }
+  ]
+}
