@@ -1,0 +1,2 @@
+../testaerp-client-311/Instalar/berkeleydb-18.1.14-cp313-cp313-win_amd64.whl ; sys_platform == "win32" and python_version == "3.13"
+msgpack==1.2.1
