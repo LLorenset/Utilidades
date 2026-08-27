@@ -93,7 +93,7 @@ def main():
     
     from pathlib import Path
 
-    ruta = "C:\\copias\\datos\\data4\\"
+    ruta = "C:\\copias\\datos\\errCore\\"
     
     rut = Path(ruta)
     for f in rut.iterdir():
